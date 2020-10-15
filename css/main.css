@@ -1,0 +1,31 @@
+img.logo {
+	width: 120px;
+	height: 41px;
+}
+
+h1 {
+	color: red;
+}
+
+h2 {
+	background-color: green;
+	color: white;
+}
+
+h2.form {
+	padding: 50px;
+}
+
+li {
+	font-size: 25px;
+	border: 1px solid black;
+}
+span {
+	color: red;
+}
+header p:first-of-type {
+	color: white;
+	background-color: blue;
+	width: 100px;
+	height: 80px;
+}
